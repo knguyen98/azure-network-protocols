@@ -1,5 +1,4 @@
 # azure-network-protocols
-Certainly! Here's a similar passage with a different word:
 
 ---
 
